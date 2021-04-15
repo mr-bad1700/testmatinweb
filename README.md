@@ -1,3 +1,7 @@
-# Get Started!
+[https://jackhmadden.github.io/](https://jackhmadden.github.io/)
 
-Add files and start typing 🎉
+
+Add media to publications
+finalize post template 
+add posts 
+  
