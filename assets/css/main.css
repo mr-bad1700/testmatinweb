@@ -4116,7 +4116,7 @@ input, select, textarea {
     width: 1000px;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .container .card{
@@ -4151,7 +4151,6 @@ input, select, textarea {
 
 .container .card:hover .face.face1 .content{
     opacity: 1;
-  width = device-width;
 }
 
 .container .card .face.face1 .content img{
@@ -4202,4 +4201,5 @@ input, select, textarea {
     background: #333;
     color: #fff;
 }
+
 }
