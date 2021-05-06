@@ -4184,6 +4184,7 @@ input, select, textarea {
 .container .card .face.face2 .content p{
     margin: 0;
     padding: 0;
+    color: #000000;
 }
 
 .container .card .face.face2 .content a{
