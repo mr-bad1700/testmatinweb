@@ -4151,6 +4151,7 @@ input, select, textarea {
 
 .container .card:hover .face.face1 .content{
     opacity: 1;
+  width = device-width;
 }
 
 .container .card .face.face1 .content img{
