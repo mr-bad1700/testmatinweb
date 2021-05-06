@@ -4121,7 +4121,6 @@ input, select, textarea {
 
 .container .card{
     position: relative;
-    cursor: pointer;
 }
 
 .container .card .face{
@@ -4201,5 +4200,4 @@ input, select, textarea {
     background: #333;
     color: #fff;
 }
-
-	}
+}
