@@ -2186,7 +2186,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #2e4e6e;
+			background: #e44c65;;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3137,17 +3137,14 @@ input, select, textarea {
 			border-left-width: 0.35em;
 			right: 0;
 		}
-
-		.spotlight.style1 .content {
-			border-color: #2e4e6e;
-		}
-
-		.spotlight.style2 .content {
-			border-color: #2e4e6e;
-		}
-
-		.spotlight.style3 .content {
-			border-color: #2e4e6e;
+    .spotlight.style1 .content {	
+			border-color: #e44c65;	
+		}	
+		.spotlight.style2 .content {	
+			border-color: #5480f1;	
+		}	
+		.spotlight.style3 .content {	
+			border-color: #39c088;	
 		}
 
 		.spotlight.inactive .content {
