@@ -4163,7 +4163,16 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
   color: black;
 }
 
+@media screen and (max-width: 3400px) {
+  div.cards-list {
+    display: none;
 }
+  
+  
+  
+  
+  
+  
 }
 
 .container{
@@ -4258,10 +4267,5 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
 
 }
 
-@media only screen and (max-width: 2400px) {
-  div.row{
-    display: none;
-  }
-}
 
 
