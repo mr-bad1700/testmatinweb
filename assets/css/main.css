@@ -4108,6 +4108,7 @@ input, select, textarea {
 	}
 
 
+
 .cards-list {
   z-index: 0;
   width: 100%;
@@ -4163,13 +4164,16 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
   color: black;
 }
 
-@media all and (max-width: 500px) {
-  .card-list {
-    /* On small screens, we are no longer using row direction but column */
-    flex-direction: column;
-  }
-}
+	
+#div.cards-list {display: block;}
 
+
+@media screen and (max-width: 768px) {
+
+#div.cards-list {display: none;}
+
+
+}
 
 .card {
   margin: 30px auto;
