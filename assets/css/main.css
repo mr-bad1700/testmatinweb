@@ -3927,7 +3927,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: ##E44C65;
+						background: #000; /* E44C65 */
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
@@ -3962,7 +3962,7 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #181920;
+				background: #fff;
 				padding: 0.75em 1.25em;
 			}
 
